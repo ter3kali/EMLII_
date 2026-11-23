@@ -360,12 +360,3 @@ so you can edit them after building; a plugin needing a *new third-party package
 * The optional AI depends on a separately running Ollama and can be wrong.
 
 ---
-
-## 15. Version history
-
-* **v4.1** — Plugin system overhaul: chat triggers, richer `ctx`, `!tools`, notifications,
-  per-plugin settings, safe loading, fact placeholders, starter plugins, bundling in the .exe.
-* **v4.0** — SQLite memory, TF-IDF matching with typo tolerance, 👍/👎 feedback learning,
-  trusted vs unverified answers, conversation context, standalone-app build script.
-* **v3.5** — Exact-match files, word-overlap similarity, pattern rules, Ollama fallback,
-  teach-on-failure, terminal and web UI.
